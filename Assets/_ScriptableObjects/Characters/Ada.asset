@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c91fbefce110bb144a7d10dd0a7b2986, type: 3}
+  m_Name: Ada
+  m_EditorClassIdentifier: 
+  characterName: Ada
+  character:
+    characterName: 1
+  characterPrefab: {fileID: 5763755883024272560, guid: 07bf032bcb0537246bda412e7df0c2df, type: 3}
+  characterPortrait: {fileID: 5672320753257878951, guid: ff5df074b0451db4f8552ddac6d2a4be, type: 3}

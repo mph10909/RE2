@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c91fbefce110bb144a7d10dd0a7b2986, type: 3}
+  m_Name: Hunk
+  m_EditorClassIdentifier: 
+  characterName: Hunk
+  character:
+    characterName: 0
+  characterPrefab: {fileID: 4899014204216827840, guid: a4265192ce1467848a5ccdc5981ef94f, type: 3}
+  characterPortrait: {fileID: 6842623717886362761, guid: ff5df074b0451db4f8552ddac6d2a4be, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b39b94c562846db4782d3c0b8f5b1382, type: 3}
+  m_Name: Claire_Joins_Text
+  m_EditorClassIdentifier: 
+  body:
+  - '<color=blue>Leon : </color> Claire, I found your note. Are you alright?'
+  - '<color=Red>Claire : </color> Leon! I''m glad you made it!'
+  - '<color=Red>Claire : </color> The door locked behind me when I entered,'
+  - '<color=Red>Claire : </color>and I wans''t sure how I was going to get out of
+    here.'
+  - "<color=blue>Leon: </color>The lock must have triggered somehow. \nI'm just glad
+    I found you before it was to late."
+  - <color=green>Claire</color> is now available! Press <color=green>Space</color>
+    to swap between characters.

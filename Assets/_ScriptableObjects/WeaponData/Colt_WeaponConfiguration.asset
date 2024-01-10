@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720cff9f95a69e64c9c6aca1ba91733e, type: 3}
+  m_Name: Colt_WeaponConfiguration
+  m_EditorClassIdentifier: 
+  weaponEffects:
+    audioSource: {fileID: 4460742624490639216, guid: fcc3378a8e3da2940bdd7d8fb0bd5db9, type: 3}
+    fire: {fileID: 8300000, guid: 7b0556667fee06d42a96eb5c7ed81201, type: 3}
+    empty: {fileID: 8300000, guid: 74d9356f9d243a14e92f1e99dc007115, type: 3}
+    reload: {fileID: 8300000, guid: 1fd854a8a0a56914aa7ec2bbac692d99, type: 3}
+    reload2: {fileID: 8300000, guid: 67fc4b14951246142af70c8da5a94dbd, type: 3}
+    flashParticle: {fileID: 7688156072717717827, guid: b84ad800741de1944983217675bfb2df, type: 3}
+    projectileParticle: {fileID: 0}
+    casingParticle: {fileID: 8887373233732349867, guid: 821de5f5d90ba674dad4f975ded9a2ed, type: 3}
+    casingLocation: {fileID: 3803379349209442013, guid: fcc3378a8e3da2940bdd7d8fb0bd5db9, type: 3}
+    flashLocation: {fileID: 6205624651915476228, guid: fcc3378a8e3da2940bdd7d8fb0bd5db9, type: 3}
+  shootMask:
+    serializedVersion: 2
+    m_Bits: 192
+  ammoType: 1
+  ammoPerShot: 1
+  fullAmmo: 15
+  upWardDamage: 0
+  head: 1
+  removeHead: 0
+  kockbackHead: 0
+  fowardDamage: 25
+  torso: 2
+  removeTorso: 0
+  knockbackTorso: 0
+  downWardDamage: 25
+  legs: 3
+  removeLegs: 0
+  knockbackLegs: 0
+  boxSize: {x: 1, y: 1, z: 1}
+  m_MaxDistance: 30
+  minForce: 500
+  maxForce: 750

@@ -1,0 +1,1974 @@
+fileFormatVersion: 2
+guid: 8ab7a05a193277b43b68a9f6cebc0c41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 746440552728781429
+    second: RE_Font_0
+  - first:
+      213: 2194477216645754758
+    second: RE_Font_1
+  - first:
+      213: -937325079542733176
+    second: RE_Font_2
+  - first:
+      213: -6668119352622771468
+    second: RE_Font_3
+  - first:
+      213: 262078807033492445
+    second: RE_Font_4
+  - first:
+      213: -4422035000485925963
+    second: RE_Font_5
+  - first:
+      213: -461294438106354295
+    second: RE_Font_6
+  - first:
+      213: -2782425658575838487
+    second: RE_Font_7
+  - first:
+      213: -9131742459227018504
+    second: RE_Font_8
+  - first:
+      213: -8682302000709435080
+    second: RE_Font_9
+  - first:
+      213: -7464513378716999824
+    second: RE_Font_10
+  - first:
+      213: -6547036083985562816
+    second: RE_Font_11
+  - first:
+      213: 2660178235300039188
+    second: RE_Font_12
+  - first:
+      213: 8036935372432120520
+    second: RE_Font_13
+  - first:
+      213: 6304161956643278571
+    second: RE_Font_14
+  - first:
+      213: 2437205255645093133
+    second: RE_Font_15
+  - first:
+      213: 2356858056732302053
+    second: RE_Font_16
+  - first:
+      213: 8721372725538129289
+    second: RE_Font_17
+  - first:
+      213: -2699056020842049031
+    second: RE_Font_18
+  - first:
+      213: -1391860822552357456
+    second: RE_Font_19
+  - first:
+      213: 3602538094413927467
+    second: RE_Font_20
+  - first:
+      213: -1179261158596313912
+    second: RE_Font_21
+  - first:
+      213: -4004908356943566900
+    second: RE_Font_22
+  - first:
+      213: 588004520447524837
+    second: RE_Font_23
+  - first:
+      213: 4468155115244628511
+    second: RE_Font_24
+  - first:
+      213: 5083364536033304137
+    second: RE_Font_25
+  - first:
+      213: 2794187584783217200
+    second: RE_Font_26
+  - first:
+      213: -877943894399287454
+    second: RE_Font_27
+  - first:
+      213: 8970192005083159286
+    second: RE_Font_28
+  - first:
+      213: 566725135951212921
+    second: RE_Font_29
+  - first:
+      213: 7467518593788477060
+    second: RE_Font_30
+  - first:
+      213: 5688572023873181673
+    second: RE_Font_31
+  - first:
+      213: 3683010226553270999
+    second: RE_Font_32
+  - first:
+      213: -300209881319102603
+    second: RE_Font_33
+  - first:
+      213: -3906284467647289151
+    second: RE_Font_34
+  - first:
+      213: -2743926322024148929
+    second: RE_Font_35
+  - first:
+      213: -1382294655348589968
+    second: RE_Font_36
+  - first:
+      213: 4737931008900427849
+    second: RE_Font_37
+  - first:
+      213: 4408205543678275736
+    second: RE_Font_38
+  - first:
+      213: 8010546435272386890
+    second: RE_Font_39
+  - first:
+      213: -538187497729647439
+    second: RE_Font_40
+  - first:
+      213: 2876376601842139632
+    second: RE_Font_41
+  - first:
+      213: 2962183431179290554
+    second: RE_Font_42
+  - first:
+      213: -1345342672725399130
+    second: RE_Font_43
+  - first:
+      213: 5500845481637928707
+    second: RE_Font_44
+  - first:
+      213: -6747568368032827031
+    second: RE_Font_45
+  - first:
+      213: 803920375094926363
+    second: RE_Font_46
+  - first:
+      213: 6717474902328268487
+    second: RE_Font_47
+  - first:
+      213: 4117410290503242369
+    second: RE_Font_48
+  - first:
+      213: 2786790965884904686
+    second: RE_Font_49
+  - first:
+      213: -3278059158225642425
+    second: RE_Font_50
+  - first:
+      213: 9093761377846468065
+    second: RE_Font_51
+  - first:
+      213: -7683625511173159044
+    second: RE_Font_52
+  - first:
+      213: 13361860468201160
+    second: RE_Font_53
+  - first:
+      213: -3125412721307754279
+    second: RE_Font_54
+  - first:
+      213: 8684284039362266590
+    second: RE_Font_55
+  - first:
+      213: 5216025424892020677
+    second: RE_Font_56
+  - first:
+      213: 6793493331610533470
+    second: RE_Font_57
+  - first:
+      213: 9209341695767258180
+    second: RE_Font_58
+  - first:
+      213: 4906033385354365186
+    second: RE_Font_59
+  - first:
+      213: -3922297744450219958
+    second: RE_Font_60
+  - first:
+      213: 7836127493733267139
+    second: RE_Font_61
+  - first:
+      213: 5307532496888060665
+    second: RE_Font_62
+  - first:
+      213: 3945702898671484430
+    second: RE_Font_63
+  - first:
+      213: 4480978042348529864
+    second: RE_Font_64
+  - first:
+      213: 2076052948789019638
+    second: RE_Font_65
+  - first:
+      213: -4200989884808239042
+    second: RE_Font_66
+  - first:
+      213: -8120111935083263084
+    second: RE_Font_67
+  - first:
+      213: -6919857062029839653
+    second: RE_Font_68
+  - first:
+      213: 3356152661806411472
+    second: RE_Font_69
+  - first:
+      213: 940204041993306870
+    second: RE_Font_70
+  - first:
+      213: -2451943018192739934
+    second: RE_Font_71
+  - first:
+      213: 4672569801192506299
+    second: RE_Font_72
+  - first:
+      213: -8013649759335450020
+    second: RE_Font_72
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RE_Font_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57268575ab3eb5a00800000000000000
+      internalID: 746440552728781429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 210
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fabd5d669547e10800000000000000
+      internalID: 2194477216645754758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 210
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8866aca6ec3fdf2f0800000000000000
+      internalID: -937325079542733176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 210
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2130b27c41673a0800000000000000
+      internalID: -6668119352622771468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 210
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b364594713a300800000000000000
+      internalID: 262078807033492445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 210
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb21b39896c1a2c0800000000000000
+      internalID: -4422035000485925963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 210
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98daecf07272999f0800000000000000
+      internalID: -461294438106354295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a7aefa96d269d0800000000000000
+      internalID: -2782425658575838487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faeb698d98854180800000000000000
+      internalID: -9131742459227018504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 210
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8310d07c454428780800000000000000
+      internalID: -8682302000709435080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 210
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f1c6871a8b86890800000000000000
+      internalID: -7464513378716999824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 210
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043406a8e514425a0800000000000000
+      internalID: -6547036083985562816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 210
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ac842c20adae420800000000000000
+      internalID: 2660178235300039188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 210
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9694c32ee88f60800000000000000
+      internalID: 8036935372432120520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee014016e1ec7750800000000000000
+      internalID: 6304161956643278571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 210
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dd0736441b2d120800000000000000
+      internalID: 2437205255645093133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 210
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eadb895aed35b020800000000000000
+      internalID: 2356858056732302053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9850b7b394a880970800000000000000
+      internalID: 8721372725538129289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 196
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f194d869d60b8ad0800000000000000
+      internalID: -2699056020842049031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5dbfec4fd1face0800000000000000
+      internalID: -1391860822552357456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24da5f4f49cef130800000000000000
+      internalID: 3602538094413927467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc7378693c62afe0800000000000000
+      internalID: -1179261158596313912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 196
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7a26a7115bb68c0800000000000000
+      internalID: -4004908356943566900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 196
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef3997fef2092800800000000000000
+      internalID: 588004520447524837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a208d6763120e30800000000000000
+      internalID: 4468155115244628511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 196
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e551adc1dbb8640800000000000000
+      internalID: 5083364536033304137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 196
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0327fcaddc2f6c620800000000000000
+      internalID: 2794187584783217200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 196
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f7b99fdaae0d3f0800000000000000
+      internalID: -877943894399287454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 196
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad70e3a168c7c70800000000000000
+      internalID: 8970192005083159286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97138ad22896dd700800000000000000
+      internalID: 566725135951212921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ef260b894f1a760800000000000000
+      internalID: 7467518593788477060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e79f2acd1ed1fe40800000000000000
+      internalID: 5688572023873181673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 196
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b6d1a94eac1330800000000000000
+      internalID: 3683010226553270999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a9e914b075dbf0800000000000000
+      internalID: -300209881319102603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8e14a19f61ac9c0800000000000000
+      internalID: -3906284467647289151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3018ed4c8d9be9d0800000000000000
+      internalID: -2743926322024148929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 182
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ab60da55a11dce0800000000000000
+      internalID: -1382294655348589968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 182
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94071d3662380c140800000000000000
+      internalID: 4737931008900427849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 182
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890f9d716971d2d30800000000000000
+      internalID: 4408205543678275736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 182
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49ae2b8a8d2b2f60800000000000000
+      internalID: 8010546435272386890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 182
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc944f7259f788f0800000000000000
+      internalID: -538187497729647439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1cb099741fae720800000000000000
+      internalID: 2876376601842139632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 181
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab74df6e22acb1920800000000000000
+      internalID: 2962183431179290554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 182
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9270397f1645de0800000000000000
+      internalID: -1345342672725399130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 182
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f575122dde65c40800000000000000
+      internalID: 5500845481637928707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 181
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969bdb5c152db52a0800000000000000
+      internalID: -6747568368032827031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 182
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c5b316259182b00800000000000000
+      internalID: 803920375094926363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 182
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6d0ec35d3493d50800000000000000
+      internalID: 6717474902328268487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_48
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 182
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182dbff18daf32930800000000000000
+      internalID: 4117410290503242369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 182
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee466d05e9baca620800000000000000
+      internalID: 2786790965884904686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 182
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c9e31409ef182d0800000000000000
+      internalID: -3278059158225642425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 181
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed94b6dac7833e70800000000000000
+      internalID: 9093761377846468065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 181
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770563ae474e5590800000000000000
+      internalID: -7683625511173159044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 168
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6deb29a887f2000800000000000000
+      internalID: 13361860468201160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 168
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0e6f960bd40a4d0800000000000000
+      internalID: -3125412721307754279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 168
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed548ce8256c48870800000000000000
+      internalID: 8684284039362266590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 168
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7481efc7b036840800000000000000
+      internalID: 5216025424892020677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_57
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 168
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e71ae0136574e50800000000000000
+      internalID: 6793493331610533470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444a667aa772ecf70800000000000000
+      internalID: 9209341695767258180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 168
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2090146ee5bb51440800000000000000
+      internalID: 4906033385354365186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 167
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a409abe8bf23199c0800000000000000
+      internalID: -3922297744450219958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_61
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 168
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6b4ae10748fbc60800000000000000
+      internalID: 7836127493733267139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fadad67fa428a940800000000000000
+      internalID: 5307532496888060665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_63
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 137
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0efa8091e3f1c630800000000000000
+      internalID: 3945702898671484430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 137
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8628cc9c1af2e30800000000000000
+      internalID: 4480978042348529864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 137
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c873582f9fcc10800000000000000
+      internalID: 2076052948789019638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_66
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 137
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38eef225f513b5c0800000000000000
+      internalID: -4200989884808239042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_67
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 137
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bc3fc97319f4f80800000000000000
+      internalID: -8120111935083263084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 137
+        width: 3
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2bb314aaab7ff90800000000000000
+      internalID: -6919857062029839653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_69
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 138
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dee3f27013739e20800000000000000
+      internalID: 3356152661806411472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2c56348964c0d00800000000000000
+      internalID: 940204041993306870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_71
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 121
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a16f1fd0d2f8fdd0800000000000000
+      internalID: -2451943018192739934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 121
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30c445a7d48d040800000000000000
+      internalID: -8013649759335450020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RE_Font_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 121
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a7a64800cc9c090800000000000000
+      internalID: 4672569801192506299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b3946d781aef61b4eab8c06765a04a69
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RE_Font_0: 746440552728781429
+      RE_Font_1: 2194477216645754758
+      RE_Font_10: -7464513378716999824
+      RE_Font_11: -6547036083985562816
+      RE_Font_12: 2660178235300039188
+      RE_Font_13: 8036935372432120520
+      RE_Font_14: 6304161956643278571
+      RE_Font_15: 2437205255645093133
+      RE_Font_16: 2356858056732302053
+      RE_Font_17: 8721372725538129289
+      RE_Font_18: -2699056020842049031
+      RE_Font_19: -1391860822552357456
+      RE_Font_2: -937325079542733176
+      RE_Font_20: 3602538094413927467
+      RE_Font_21: -1179261158596313912
+      RE_Font_22: -4004908356943566900
+      RE_Font_23: 588004520447524837
+      RE_Font_24: 4468155115244628511
+      RE_Font_25: 5083364536033304137
+      RE_Font_26: 2794187584783217200
+      RE_Font_27: -877943894399287454
+      RE_Font_28: 8970192005083159286
+      RE_Font_29: 566725135951212921
+      RE_Font_3: -6668119352622771468
+      RE_Font_30: 7467518593788477060
+      RE_Font_31: 5688572023873181673
+      RE_Font_32: 3683010226553270999
+      RE_Font_33: -300209881319102603
+      RE_Font_34: -3906284467647289151
+      RE_Font_35: -2743926322024148929
+      RE_Font_36: -1382294655348589968
+      RE_Font_37: 4737931008900427849
+      RE_Font_38: 4408205543678275736
+      RE_Font_39: 8010546435272386890
+      RE_Font_4: 262078807033492445
+      RE_Font_40: -538187497729647439
+      RE_Font_41: 2876376601842139632
+      RE_Font_42: 2962183431179290554
+      RE_Font_43: -1345342672725399130
+      RE_Font_44: 5500845481637928707
+      RE_Font_45: -6747568368032827031
+      RE_Font_46: 803920375094926363
+      RE_Font_47: 6717474902328268487
+      RE_Font_48: 4117410290503242369
+      RE_Font_49: 2786790965884904686
+      RE_Font_5: -4422035000485925963
+      RE_Font_50: -3278059158225642425
+      RE_Font_51: 9093761377846468065
+      RE_Font_52: -7683625511173159044
+      RE_Font_53: 13361860468201160
+      RE_Font_54: -3125412721307754279
+      RE_Font_55: 8684284039362266590
+      RE_Font_56: 5216025424892020677
+      RE_Font_57: 6793493331610533470
+      RE_Font_58: 9209341695767258180
+      RE_Font_59: 4906033385354365186
+      RE_Font_6: -461294438106354295
+      RE_Font_60: -3922297744450219958
+      RE_Font_61: 7836127493733267139
+      RE_Font_62: 5307532496888060665
+      RE_Font_63: 3945702898671484430
+      RE_Font_64: 4480978042348529864
+      RE_Font_65: 2076052948789019638
+      RE_Font_66: -4200989884808239042
+      RE_Font_67: -8120111935083263084
+      RE_Font_68: -6919857062029839653
+      RE_Font_69: 3356152661806411472
+      RE_Font_7: -2782425658575838487
+      RE_Font_70: 940204041993306870
+      RE_Font_71: -2451943018192739934
+      RE_Font_72: 4672569801192506299
+      RE_Font_73: -8013649759335450020
+      RE_Font_8: -9131742459227018504
+      RE_Font_9: -8682302000709435080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

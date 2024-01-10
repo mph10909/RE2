@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 356f878abb75c5241ab18a0c4b3e241c, type: 3}
+  m_Name: Reload State SO
+  m_EditorClassIdentifier: 
+  aimState: {fileID: 11400000, guid: 7c07418975716ab4aa4600798ccdfe46, type: 2}

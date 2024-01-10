@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a68746fbcb5ca4d91e195d82e8a4dd, type: 3}
+  m_Name: FootStepManager
+  m_EditorClassIdentifier: 
+  footStepData:
+  - name: Carpet
+    footStepSurface: {fileID: 11400000, guid: 052ece28a503616468b281d34bf9c58b, type: 2}
+    footSteps: {fileID: 11400000, guid: 9b706bf2b72dfec4da263ddf953646b2, type: 2}
+  - name: Glass
+    footStepSurface: {fileID: 11400000, guid: fc21d4ad7329d4d4e9ecf88306c0ed8e, type: 2}
+    footSteps: {fileID: 11400000, guid: d60cb12b001b75447bebb160b3acc22f, type: 2}
+  - name: Grass
+    footStepSurface: {fileID: 11400000, guid: 41f4a3d11aeeca94d972e0ddf940096d, type: 2}
+    footSteps: {fileID: 11400000, guid: 6c53ee80665cc7e4cb91eb95a01234fb, type: 2}
+  - name: Gravel
+    footStepSurface: {fileID: 11400000, guid: 6826949e015b2124da96f0ce769ed092, type: 2}
+    footSteps: {fileID: 11400000, guid: 6ad98dfa1bfcae34ea750f0a654e53e7, type: 2}
+  - name: Metal
+    footStepSurface: {fileID: 11400000, guid: 3c3dcc0c6bf5c4448899f734a0065916, type: 2}
+    footSteps: {fileID: 11400000, guid: 6c1ffe8e44a04b44da4e1772007e37c7, type: 2}
+  - name: Stone
+    footStepSurface: {fileID: 11400000, guid: 8464da1ee6652f44d8ef19fb3b03586d, type: 2}
+    footSteps: {fileID: 11400000, guid: 0ae28591f8fd06b43b9da0bb6848924f, type: 2}
+  - name: Wood
+    footStepSurface: {fileID: 11400000, guid: 97956a8223285ca408ab7951eb182363, type: 2}
+    footSteps: {fileID: 11400000, guid: b8b887f560aa08447aa46c53aa5c35f2, type: 2}
+  - name: RandomNoiseSurface
+    footStepSurface: {fileID: 11400000, guid: d0db03735a6047049a232312b22753ef, type: 2}
+    footSteps: {fileID: 11400000, guid: 6ee4d9b8dd173d14bad367cb28a7a8ea, type: 2}

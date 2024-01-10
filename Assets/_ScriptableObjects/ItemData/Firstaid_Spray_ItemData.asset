@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f320c0b474678f4f8943d1f8c239ae3, type: 3}
+  m_Name: Firstaid_Spray_ItemData
+  m_EditorClassIdentifier: 
+  item: 4
+  itemNameText: First Aid Spray
+  itemInventoryDescription: This spray will fully recover your vitality.
+  itemInventorySprite: {fileID: 21300000, guid: 2f892bbe2a7a8bc408116c1de33ca0e2, type: 3}
+  itemCheckSprite: {fileID: 0}
+  itemInventoryGameObject: {fileID: 0}

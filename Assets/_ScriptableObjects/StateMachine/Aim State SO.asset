@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35518918860416743b5773b5a78cecc7, type: 3}
+  m_Name: Aim State SO
+  m_EditorClassIdentifier: 
+  runState: {fileID: 11400000, guid: 14d314626f668a44fb34c9e868d1c7af, type: 2}
+  followState: {fileID: 11400000, guid: 358f3f50e28499b458a648f117b188bf, type: 2}
+  idleState: {fileID: 11400000, guid: d93ea83d7c13ae148988df2c1bddeb25, type: 2}
+  fireState: {fileID: 11400000, guid: c799d14e9398f0544951f5f3d37cd2fa, type: 2}
+  evadeState: {fileID: 11400000, guid: 408596c59078a2b47a0e12bad0b9c364, type: 2}
+  aimStateOff: 0.5

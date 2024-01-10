@@ -1,0 +1,87 @@
+fileFormatVersion: 2
+guid: b64da3cb3f0cc944f97c60fbe5a66ff4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - returnSprite: {fileID: -8797808953732642226, guid: 94a5f649f645c8f4bbba101c4d095e7c, type: 3}
+  - returnCheckSprite: {instanceID: 0}
+  - firstAidSpraySprite: {instanceID: 0}
+  - firstAidSprayCheckSprite: {instanceID: 0}
+  - greenHerbSprite: {instanceID: 0}
+  - greenHerbCheckSprite: {instanceID: 0}
+  - redHerbSprite: {instanceID: 0}
+  - redHerbCheckSprite: {instanceID: 0}
+  - blueHerbSprite: {instanceID: 0}
+  - blueHerbCheckSprite: {instanceID: 0}
+  - mixedHerbGRSprite: {instanceID: 0}
+  - mixedHerbGRCheckSprite: {instanceID: 0}
+  - mixedHerbGGSprite: {instanceID: 0}
+  - mixedHerbGGCheckSprite: {instanceID: 0}
+  - mixedHerbGBSprite: {instanceID: 0}
+  - mixedHerbGBCheckSprite: {instanceID: 0}
+  - mixedHerbGGGSprite: {instanceID: 0}
+  - mixedHerbGGGCheckSprite: {instanceID: 0}
+  - mixedHerbGGBSprite: {instanceID: 0}
+  - mixedHerbGGBCheckSprite: {instanceID: 0}
+  - mixedHerbGRBSprite: {instanceID: 0}
+  - mixedHerbGRBCheckSprite: {instanceID: 0}
+  - handgunBulletsSprite: {instanceID: 0}
+  - handgunBulletsCheckSprite: {instanceID: 0}
+  - shotgunBulletsSprite: {instanceID: 0}
+  - shotgunBulletsCheckSprite: {instanceID: 0}
+  - grenadeRoundSprite: {instanceID: 0}
+  - grenadeRoundCheckSprite: {instanceID: 0}
+  - acidRoundSprite: {instanceID: 0}
+  - acidRoundCheckSprite: {instanceID: 0}
+  - flameRoundsSprite: {instanceID: 0}
+  - flameRoundsCheckSprite: {instanceID: 0}
+  - magnumRoundsSprite: {instanceID: 0}
+  - magnumRoundsCheckSprite: {instanceID: 0}
+  - handgunASprite: {instanceID: 0}
+  - handgunACheckSprite: {instanceID: 0}
+  - handgunAGameObject: {instanceID: 0}
+  - handgunBSprite: {instanceID: 0}
+  - handgunBCheckSprite: {instanceID: 0}
+  - handgunBGameObject: {instanceID: 0}
+  - handgunCSprite: {instanceID: 0}
+  - handgunCCheckSprite: {instanceID: 0}
+  - handgunCGameObject: {instanceID: 0}
+  - handgunDSprite: {instanceID: 0}
+  - handgunDCheckSprite: {instanceID: 0}
+  - handgunDGameObject: {instanceID: 0}
+  - shotgunSprite: {instanceID: 0}
+  - shotgunCheckSprite: {instanceID: 0}
+  - shotgunGameObject: {instanceID: 0}
+  - grenadeGunSprite: {instanceID: 0}
+  - grenadeGunCheckSprite: {instanceID: 0}
+  - grenadeGunGameObject: {instanceID: 0}
+  - magnumSprite: {instanceID: 0}
+  - magnumCheckSprite: {instanceID: 0}
+  - magnumGameObject: {instanceID: 0}
+  - rocketLauncherSprite: {instanceID: 0}
+  - rocketLauncherCheckSprite: {instanceID: 0}
+  - rocketLauncherGameObject: {instanceID: 0}
+  - churchRearKeySprite: {instanceID: 0}
+  - rustedKeySprite: {instanceID: 0}
+  - chapelKeySprite: {instanceID: 0}
+  - clockWinderSprite: {instanceID: 0}
+  - filmSprite: {instanceID: 0}
+  - manholeOpenerSprite: {instanceID: 0}
+  - managersKeySprite: {instanceID: 0}
+  - ropeSprite: {instanceID: 0}
+  - theaterKeySprite: {instanceID: 0}
+  - crackedKeySprite: {instanceID: 0}
+  - arcadeKeySprite: {instanceID: 0}
+  - medicineRoomKeySprite: {instanceID: 0}
+  - prisonCellKeySprite: {instanceID: 0}
+  - clubHallKeySprite: {instanceID: 0}
+  - cardKeySprite: {instanceID: 0}
+  - activationDiskSprite: {instanceID: 0}
+  - idCardSprite: {instanceID: 0}
+  - masterKeySprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

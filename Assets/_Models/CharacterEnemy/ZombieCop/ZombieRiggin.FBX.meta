@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: dba4810440c8ff94eb2abfa045fd0e04
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Avatar creation failed:\n\tTransform 'Object_1' is not an ancestor
+      of 'Object_0'\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Object_0
+        weight: 1
+      - path: Object_0/Object_1
+        weight: 1
+      - path: Object_0/Object_1/Object_2
+        weight: 1
+      - path: Object_0/Object_1/Object_2/Object_3
+        weight: 1
+      - path: Object_0/Object_1/Object_2/Object_3/Object_4
+        weight: 1
+      - path: Object_0/Object_1/Object_5
+        weight: 1
+      - path: Object_0/Object_1/Object_5/Object_6
+        weight: 1
+      - path: Object_0/Object_1/Object_5/Object_6/Object_7
+        weight: 1
+      - path: Object_0/Object_8
+        weight: 1
+      - path: Object_0/Object_9
+        weight: 1
+      - path: Object_0/Object_9/Object_10
+        weight: 1
+      - path: Object_0/Object_9/Object_10/Object_11
+        weight: 1
+      - path: Object_0/Object_12
+        weight: 1
+      - path: Object_0/Object_12/Object_13
+        weight: 1
+      - path: Object_0/Object_12/Object_13/Object_14
+        weight: 1
+      - path: Object_15
+        weight: 1
+      - path: Object_16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ZombieRiggin(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object_0
+      parentName: ZombieRiggin(Clone)
+      position: {x: -0.049276, y: 1.012952, z: -1.9800518e-18}
+      rotation: {x: -0.77210027, y: 0.025658406, z: 0.0928009, w: 0.62816465}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object_1
+      parentName: Object_0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.17354377, y: 0.042041168, z: -0.1165603, w: 0.97699994}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Object_2
+      parentName: Object_1
+      position: {x: -0.08839199, y: 0.000000012111664, z: -0.12801592}
+      rotation: {x: 0.0524527, y: -0.009946871, z: -0.07316582, w: 0.99588984}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: Object_3
+      parentName: Object_2
+      position: {x: 0.0005079995, y: 0.000000024223327, z: -0.37083995}
+      rotation: {x: -0.2675159, y: 0.0000000034303358, z: -0.00000002454038, w: 0.9635535}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+    - name: Object_4
+      parentName: Object_3
+      position: {x: 0.0005080116, y: -0.000000036334992, z: -0.43738803}
+      rotation: {x: 0.13078798, y: 0.0051609525, z: 0.0039577554, w: 0.99138904}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: Object_5
+      parentName: Object_1
+      position: {x: 0.089407995, y: 0, z: -0.12750801}
+      rotation: {x: 0.0022310507, y: -0.06956117, z: 0.03398623, w: 0.9969961}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Object_6
+      parentName: Object_5
+      position: {x: 0.0005079874, y: 0, z: -0.37084}
+      rotation: {x: -0.26307327, y: -0.000000002695067, z: 0.000000009883694, w: 0.96477586}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Object_7
+      parentName: Object_6
+      position: {x: 0.0005079874, y: -0.000000036334992, z: -0.43738803}
+      rotation: {x: 0.17521258, y: 0.07353954, z: -0.015446174, w: 0.98165876}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Object_8
+      parentName: Object_0
+      position: {x: -0, y: -0.019811993, z: 0.3972559}
+      rotation: {x: -0.10382717, y: 0.02961398, z: -0.13149434, w: 0.9854198}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Object_9
+      parentName: Object_0
+      position: {x: -0.21335997, y: -0.02692401, z: 0.30683196}
+      rotation: {x: 0.03250552, y: 0.068790905, z: -0.08066635, w: 0.99383307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object_10
+      parentName: Object_9
+      position: {x: 0.0005080116, y: 0.0000007993698, z: -0.28905213}
+      rotation: {x: 0.2976844, y: 0.0000000039722625, z: 2.2468988e-10, w: 0.95466435}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: Object_11
+      parentName: Object_10
+      position: {x: -0, y: -0.000000048446655, z: -0.23317206}
+      rotation: {x: -0.017361034, y: 0.04482889, z: -0.46717358, w: 0.8828578}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Object_12
+      parentName: Object_0
+      position: {x: 0.21234396, y: -0.02692401, z: 0.30734006}
+      rotation: {x: 0.033269994, y: 0.0038932005, z: -0.066093385, w: 0.99725103}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Object_13
+      parentName: Object_12
+      position: {x: 0.0005080116, y: 0.000000012111664, z: -0.289052}
+      rotation: {x: 0.13917309, y: -0.000000010289419, z: 0.000000007088935, w: 0.9902681}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Object_14
+      parentName: Object_13
+      position: {x: -0, y: 0.000000024223327, z: -0.23418798}
+      rotation: {x: -0.03569556, y: 0.017180476, z: 0.44778338, w: 0.8932641}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Object_15
+      parentName: ZombieRiggin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object_16
+      parentName: ZombieRiggin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Object_0
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

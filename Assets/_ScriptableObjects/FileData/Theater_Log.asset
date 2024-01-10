@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a474ed00b2ca343aff0424f1d74c9e, type: 3}
+  m_Name: Theater_Log
+  m_EditorClassIdentifier: 
+  title: Theater Employee Log
+  body:
+  - I'm not sure if anyone will ever read this, but I feel compelled to write down
+    what I'm witnessing. As a theater employee, it's my job to keep things running
+    smoothly and ensure that the patrons have a pleasant experience. But today, everything
+    has gone horribly wrong.
+  - The undead monsters have taken over the theater, and I can see them swarming
+    through the aisles and attacking anyone in their path. It's a scene straight
+    out of a horror movie, but this is real life, and it's happening right in front
+    of me.
+  - I never thought I would witness something like this. The screams of the patrons
+    echo through the theater, and I can see the terror in their eyes as they try
+    to escape. But it's too late for most of them.
+  - As I watch the chaos unfold, I can't help but think of my own family. Are they
+    safe? Have they managed to avoid the same fate as these poor people?
+  - I feel helpless, trapped in the theater with no way out. All I can do is watch
+    as the monsters overrun everything in their path.
+  - Maybe one day someone will find this journal and know what happened here. Maybe
+    they'll be able to stop it from happening again.
+  - 'But for now, I must focus on survival. It''s all that matters in this moment....
+
+
+    Rachel
+    Woods'
+  fileIcon: {fileID: 6706844266654353658, guid: 4a9d99b23804d5f44908913d2bc4aa3f, type: 3}

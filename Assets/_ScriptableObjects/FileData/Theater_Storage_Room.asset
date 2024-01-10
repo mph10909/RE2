@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a474ed00b2ca343aff0424f1d74c9e, type: 3}
+  m_Name: Theater_Storage_Room
+  m_EditorClassIdentifier: 
+  title: Theater Storage
+  body:
+  - 'Journal Entry: May 2, 1998
+
+    
+
+    Today has been a strange day. I''ve
+    been tasked with moving movie reels from the east wing to the storage room, but
+    there''s something odd going on.'
+  - The only time we can access the theater is when it's screening movies, which
+    seems unusual. It's as if they're trying to keep us away from something. I can't
+    help but wonder what they're hiding.
+  - The rumors of a virus spreading through the facility don't help ease my suspicions.
+    I'll keep my eyes and ears open, but for now, I'll just focus on getting these
+    reels moved before the next screening starts.
+  fileIcon: {fileID: 6706844266654353658, guid: 4a9d99b23804d5f44908913d2bc4aa3f, type: 3}

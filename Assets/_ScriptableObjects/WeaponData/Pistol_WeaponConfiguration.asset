@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720cff9f95a69e64c9c6aca1ba91733e, type: 3}
+  m_Name: Pistol_WeaponConfiguration
+  m_EditorClassIdentifier: 
+  weaponEffects:
+    audioSource: {fileID: 1563818242378539032, guid: cb679a3135c7c534b8a8c4b12dca79d6, type: 3}
+    fire: {fileID: 8300000, guid: f48f6d47398970742b9fd2b27d00bd2d, type: 3}
+    empty: {fileID: 8300000, guid: f711815bd625bae4f8fbf58f21638120, type: 3}
+    reload: {fileID: 8300000, guid: c2e03cbee6a19ac478449dc44abf580c, type: 3}
+    reload2: {fileID: 0}
+    flashParticle: {fileID: 7688156072717717827, guid: b84ad800741de1944983217675bfb2df, type: 3}
+    projectileParticle: {fileID: 0}
+    casingParticle: {fileID: 8887373233732349867, guid: 821de5f5d90ba674dad4f975ded9a2ed, type: 3}
+    casingLocation: {fileID: 0}
+    flashLocation: {fileID: 0}
+  shootMask:
+    serializedVersion: 2
+    m_Bits: 192
+  ammoType: 1
+  ammoPerShot: 1
+  fullAmmo: 15
+  upWardDamage: 0
+  head: 1
+  removeHead: 0
+  kockbackHead: 0
+  fowardDamage: 25
+  torso: 2
+  removeTorso: 0
+  knockbackTorso: 0
+  downWardDamage: 25
+  legs: 3
+  removeLegs: 0
+  knockbackLegs: 0
+  boxSize: {x: 1, y: 1, z: 1}
+  m_MaxDistance: 30
+  minForce: 500
+  maxForce: 750

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a474ed00b2ca343aff0424f1d74c9e, type: 3}
+  m_Name: Church_Journal
+  m_EditorClassIdentifier: 
+  title: Church Journal
+  body:
+  - 'Journal Entry: April 21, 1998
+
+
+
+    It seems like our troubles never cease
+    in this godforsaken place. Today, we had a new problem arise in the form of Deacon
+    Thomas, who dropped his keys to the church back office down a grate in the floor
+    of the wine cellar.
+
+'
+  - Unfortunately, he dropped his keys down the grate, and they fell through to a
+    lower level. From the looks of it, someone could climb down to retrieve them,
+    but they would have to be smaller than Deacon Thomas.
+  - "\rJournal Entry: April 24, 1998\r\n\r\nWe're all on high alert here, as strange
+    things have been happening in the town lately. People have been disappearing,
+    and there have been reports of strange creatures lurking in the shadows.\r\n"
+  - We don't know what's going on, but we do know that we need to find those keys.
+    They are the only set we have for the back office, and we need to get in there
+    to access important documents and supplies.
+  - 'Journal Entry: April 27, 1998
+
+
+
+    I''m not sure who will be brave enough
+    to climb down that grate, but we have to do something. We can''t afford to be
+    locked out of the back office, especially with all the strange occurrences happening
+    in the town.'
+  - I'll update this journal if we find a solution to our problem. Until then, we'll
+    have to remain vigilant and do our best to survive in these odd times.
+  - 
+  fileIcon: {fileID: 0}

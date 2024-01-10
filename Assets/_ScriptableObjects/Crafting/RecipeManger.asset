@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5300acee3e23b9e40b4930ebac44c7e0, type: 3}
+  m_Name: RecipeManger
+  m_EditorClassIdentifier: 
+  craftingRecipes:
+  - {fileID: 11400000, guid: 0e18ea3b341540142b8947367325e538, type: 2}
+  - {fileID: 11400000, guid: 6ba3454373a200442884d1d1bfe40b10, type: 2}
+  - {fileID: 11400000, guid: 744d81b1a1d016343895fa62a9e627e7, type: 2}
+  - {fileID: 11400000, guid: 4b42e0833e4d7b347bb7d22db191844e, type: 2}
+  - {fileID: 11400000, guid: a8d82e3282423f5408a8b678e2df9c59, type: 2}
+  - {fileID: 11400000, guid: 5ed1132f695c1764d93eccd49724816f, type: 2}
+  - {fileID: 11400000, guid: e63b75631bad25148b57e86262fd334d, type: 2}
+  - {fileID: 11400000, guid: 9228a8397279ca647865a5b453432c1d, type: 2}
